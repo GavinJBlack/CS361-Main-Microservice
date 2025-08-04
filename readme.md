@@ -43,4 +43,4 @@ If the command does not match any known tool, the response will be:
 ```
 
 ## UML Sequence Diagram
-![img.png](img.png)
+![UML Sequence Diagram](img.png)
